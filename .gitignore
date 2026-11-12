@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.venv/
+data/
+raw_data/
+.ipynb_checkpoints/
+.DS_Store
+# model chhota hai (~9MB) isliye commit karte hain:
+!models/best_model.pt
